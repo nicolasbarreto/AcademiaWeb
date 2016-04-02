@@ -4,3 +4,6 @@ venv
 db.sqlite3
 /static
 .DS_Store
+
+# Linux Editors & IDEs
+.idea
